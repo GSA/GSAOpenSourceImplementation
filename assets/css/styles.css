@@ -24,7 +24,7 @@ h2:before, h3:before, h4:before, h5:before, h6:before { content: ''; display: bl
 /** Table Structure */
 table { border-collapse: collapse; border-spacing: 0; border: 1px solid black; overflow: auto; }
 
-td { text-align: left; font-weight: normal; vertical-align: middle; border: 1px solid black; padding: 5px; }
+td { text-align: center; font-weight: normal; vertical-align: middle; border: 1px solid black; padding: 5px; }
 
 th { border: 1px solid black; padding: 5px; }
 

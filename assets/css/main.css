@@ -324,7 +324,7 @@ header .header_menu, header .header_menu a, header .header_menu a:link{
 
 }
 
-.imgright{
+.imgcenter{
   float:right;
   max-width:200px;
   padding-left:20px;
