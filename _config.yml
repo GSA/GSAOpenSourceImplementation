@@ -22,7 +22,7 @@ exclude:
 # Site metadata
 name: "GSA Open Source Software Policy"
 description: "Draft Insturctional Letter (IL) as GSA's Open Source Software (OSS) Policy"
-baseurl: /gsaopensourcepolicy
+baseurl: /GSAOpenSourcePolicy
 
 # Uncomment the following line for localhost development at http://127.0.0.1:4000/software/
 # baseurl: /software
@@ -45,4 +45,3 @@ navigation:
   url: /examples/
 - text: "Guide"
   url: /guide/ #these should be the content on code.gov that Aidan provided
-
