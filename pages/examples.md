@@ -28,7 +28,7 @@ description: ""
 <hr>
 <br>
 
-<p dir="ltr">Here are specific sites (with open source repos) we provided to the White House and CFO Act Agencies (some of these examples are on Code.gov).</p>
+<p dir="ltr">Here are specific sites (with open source repos) we provided to the White House and CFO Act Agencies (some of these examples are on Code.gov(coming soon!)).</p>
 
 <!--need images here, 12px wide size, have to figure out outline like projects on cto.gsa.gov/projects-->
 
