@@ -7,38 +7,59 @@ description: ""
 
 #### Examples 
 
-<p dir="ltr">We have been focused on open source code for a while now as this is happening in various parts of our Agency.  These include the <a href="https://github.com/gsa" target="blank">GSA</a> and <a href="https://github.com/18f">18F</a> organizations in GitHub.</p>
+<p dir="ltr">We have been focused on open source code for a while.</p>
 
-<!--
-<a href="https://github.com/gsa" target="blank"><img src="{{site.baseurl}}/assets/images/gsaGH.png"></a>
-<a href="https://github.com/18f" target="blank"><img src="{{site.baseurl}}/assets/images/18fGH.png"></a>
--->
+<div class="usa-grid">
+  <div class="project usa-width-one-half">
+    <div class="project-picture">
+      <a href="https://github.com/gsa" target="blank">GSA organization in GitHub</a>
+      <img src="{{site.baseurl}}/assets/images/gsaGH.png">
+    </div>
+  </div>
+  <div class="project usa-width-one-half">
+    <div class="project-picture">
+      <a href="https://github.com/18f" target="blank">18F organization in GitHub</a>
+      <img src="{{site.baseurl}}/assets/images/18fGH.png">
+    </div>
+  </div>
+</div>
 
-<p dir="ltr">Here we wanted to highlight some of our efforts as we did with the White House and CFO Act Agencies (some of these examples are on Code.gov).</p>
+<br>
+<hr>
+<br>
 
-<table>
-    <thead>
-      <tr>
-        <th>Example</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="https://github.com/18F/analytics.usa.gov#analyticsusagov" target="blank">analytics.usa.gov</a></td>
-        <td>Site for monitoring Digital Analytics Program across government.</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/18F/handbook" target="blank">18F Handbook</a></td>
-        <td>Guidance for all 18F team members that other agencies may replicate.</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/18F/web-design-standards" target="blank">US Web Design Standards</a></td>
-        <td>Website design standards providing similar look and feel, accessibility, mobile optimization, etc.</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/GSA/cto-website" target="blank">cto.gsa.gov</a></td>
-        <td>The new website for the GSA CTO that offers the new GSA IT Vision, project intake, roadmap, and guides.</td>
-      </tr>
-    </tbody>
-</table>
+<p dir="ltr">Here are specific sites (with open source repos) we provided to the White House and CFO Act Agencies (some of these examples are on Code.gov).</p>
+
+<!--need images here, 12px wide size, have to figure out outline like projects on cto.gsa.gov/projects-->
+
+<div class="usa-grid">
+  <div class="project usa-width-one-half">
+    <div class="project-picture">
+      <a href="https://github.com/18F/analytics.usa.gov#analyticsusagov" target="blank">analytics.usa.gov</a>
+      <img src="{{site.baseurl}}/assets/images/analytics.png">
+    </div>
+  </div>
+  <div class="project usa-width-one-half">
+    <div class="project-picture">
+      <a href="https://github.com/18F/handbook" target="blank">18F Handbook</a>
+      <img src="{{site.baseurl}}/assets/images/18fHandbook.png">
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="usa-grid">
+  <div class="project usa-width-one-half">
+    <div class="project-picture">
+      <a href="https://github.com/18F/web-design-standards" target="blank">US Web Design Standards</a>
+      <img src="{{site.baseurl}}/assets/images/webDesign.png">
+    </div>
+  </div>
+  <div class="project usa-width-one-half">
+    <div class="project-picture">
+      <a href="https://github.com/GSA/cto-website" target="blank">cto.gsa.gov</a>
+      <img src="{{site.baseurl}}/assets/images/cto-website.png">
+    </div>
+  </div>
+</div>

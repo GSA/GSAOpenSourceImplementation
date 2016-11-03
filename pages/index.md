@@ -7,7 +7,7 @@ description: ""
 
 #### Welcome!
 
-<p dir="ltr">This effort is brought to you by the GSA CTO's Office, GSA Digital Service.  We believe in being "open first" with working to realize 100% open source code across the Agency.  While we may be a little ways away from being fully 100% open source, we take pride in being the government (and industry) standard.</p>
+<p dir="ltr">We believe in being "open first" with working to realize 100% open source code across the Agency.  While we may be a little ways away from being fully 100% open source, we take pride in being the government (and industry) standard for open sourcing.</p>
 
 <p dir="ltr">What we create is the people's code!  Likewise, what we do should be transparent and available to the public.</p>
 
@@ -21,7 +21,7 @@ description: ""
     </li>
     
     <li dir="ltr">
-    <p dir="ltr">We are leading a panel <a href="{{site.baseurl}}/downloads/OSCON2017Proposal.pdf" target="blank">submission</a> to the <a href="http://conferences.oreilly.com/oscon/oscon-tx" target="blank">O'Reilly Open Source Conference</a> in Austin in May.  We believe it is important to tell our story from a practical policy development and code implementation view.</p>
+    <p dir="ltr">We are <a href="{{site.baseurl}}/downloads/OSCON2017Proposal.pdf" target="blank">submitted</a> to lead a panel at the <a href="http://conferences.oreilly.com/oscon/oscon-tx" target="blank">O'Reilly Open Source Conference</a> in Austin in May.  We believe it is important to tell our story from practical policy development and code implementation views.</p>
     </li>
     
     <li dir="ltr">
