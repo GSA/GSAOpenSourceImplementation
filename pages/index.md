@@ -17,11 +17,11 @@ description: ""
 
 <ol>
     <li dir="ltr">
-    <p dir="ltr">We are spreading our knowledge of Open Source Software (OSS) when possible with recently being asked to share our <a href="{{site.baseurl}}/downloads/GSAOSSPolicy.pdf" target="_blank">draft policy</a> with all CFO Act agencies.  Agencies are considering our policy as they develop theirs.</p>
+    <p dir="ltr">We are spreading our knowledge of Open Source Software (OSS) when possible with recently being asked to share our <a href="{{site.baseurl}}/downloads/GSAOSSPolicy.pdf" target="_blank">policy</a> with all CFO Act agencies.  Agencies are considering our <a href="{{site.baseurl}}/downloads/GSAOSSPolicy.pdf" target="_blank">policy</a> as they develop theirs.</p>
     </li>
     
     <li dir="ltr">
-    <p dir="ltr">We are <a href="{{site.baseurl}}/downloads/OSCON2017Proposal.pdf" target="blank">submitted</a> to lead a panel at the <a href="http://conferences.oreilly.com/oscon/oscon-tx" target="blank">O'Reilly Open Source Conference</a> in Austin in May.  We believe it is important to tell our story from practical policy development and code implementation views.</p>
+    <p dir="ltr">We <a href="{{site.baseurl}}/downloads/OSCON2017Proposal.pdf" target="blank">submitted</a> to lead a panel at the <a href="http://conferences.oreilly.com/oscon/oscon-tx" target="blank">O'Reilly Open Source Conference</a> in Austin in May.  We believe it is important to tell our story from practical policy development and code implementation views.</p>
     </li>
     
     <li dir="ltr">
