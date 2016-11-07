@@ -40,7 +40,7 @@ c. Utilize a publication process that is the responsibility of the organization 
 
 d. Release open source code through a public-facing software version control platform including code developed by GSA personnel and contractors;
 
-e. Ensure contracts that must follow OMB’s [three-step software analysis](https://sourcecode.cio.gov/Three-Step-Software-Solutions-Analysis/) outlined in [M-16-21](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf) and include contract requirements for open source code requirements when applicable. Contracts for custom development of software must also acquire and enforce rights sufficient to enable Government-wide reuse of custom-developed code (Note: Further collaboration to occur with the GSA Chief Procurement Officer outlining procedures regarding contracts and OSS.); and
+e. Ensure contracts follow OMB’s [three-step software analysis](https://sourcecode.cio.gov/Three-Step-Software-Solutions-Analysis/) outlined in [M-16-21](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf) and include contract requirements for open source code requirements when applicable. Contracts for custom development of software must also acquire and enforce rights sufficient to enable Government-wide reuse of custom-developed code (Note: Further collaboration to occur with the GSA Chief Procurement Officer outlining procedures regarding contracts and OSS.); and
 
 f. Include a metadata file in each project’s source code repository.  The metadata file will contain information about the project that can be included in GSA’s code inventory.
 
