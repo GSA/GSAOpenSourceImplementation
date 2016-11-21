@@ -324,6 +324,10 @@ header .header_menu, header .header_menu a, header .header_menu a:link{
 
 }
 
+.sidebar-nav li li {
+  font-size: 90%;
+}
+
 .imgcenter{
   float:right;
   max-width:200px;
@@ -335,4 +339,3 @@ header .header_menu, header .header_menu a, header .header_menu a:link{
   padding-left:50px;
   text-indent: -30px ;
 }
-
