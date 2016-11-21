@@ -1,12 +1,10 @@
 ---
 layout: page
-title: "GSA Open Source Software Policy | Title of the page"
+title: "GSA Open Source Software Policy | Guide"
 permalink: /guide/
 description: ""
 ---
 
-#### Guide (moving to OSS)
+#### Guide
 
-<p dir="ltr">Coming soon!</p>
-
-<p dir="ltr">This will be where we provide guidance and resources for organizations that want to go open source.</p>
+* [Implementation]({{ site.baseurl }}/guide/implementation/): How to determine whether your source code is covered by the policy, and how to submit it to the inventory.
