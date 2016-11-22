@@ -41,18 +41,18 @@ Add a YAML or JSON metadata file to the root folder of your repository. This fil
 Please see the [GSA CTO Website repository](https://github.com/GSA/cto-website/blob/dev/.codeinventory.yml) for an example of how to use a `.codeinventory.yml` file.
 
 **Example YAML File (`.codeinventory.yml`)**
-```
-name: 'CTO Website'
-description: 'A website for the GSA Office of the CTO'
-license: 'https://www.usa.gov/government-works'
-openSourceProject: 1
-governmentWideReuseProject: 1
-tags:
-    - jekyll
-    - cto
-contact:
-    email: cto@gsa.gov
-```
+
+    name: 'CTO Website'
+    description: 'A website for the GSA Office of the CTO'
+    license: 'https://www.usa.gov/gove}rnment-works'
+    openSourceProject: 1
+    governmentWideReuseProject: 1
+    tags:
+        - jekyll
+        - cto
+    contact:
+        email: cto@gsa.gov
+
 
 **Example JSON File (`.codeinventory.json`)**
 
