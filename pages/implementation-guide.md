@@ -42,7 +42,7 @@ Please see the [GSA CTO Website repository](https://github.com/GSA/cto-website/b
 
 **Example YAML File (`.codeinventory.yml`)**
 
-<pre>
+```yaml
 name: 'CTO Website'
 description: 'A website for the GSA Office of the CTO'
 license: 'https://www.usa.gov/government-works'
@@ -53,7 +53,7 @@ tags:
     - cto
 contact:
     email: cto@gsa.gov
-</pre>
+```
 
 **Example JSON File (`.codeinventory.json`)**
 
