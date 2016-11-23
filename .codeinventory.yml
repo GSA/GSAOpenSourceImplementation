@@ -1,0 +1,9 @@
+name: 'GSA Open Source Policy'
+description: 'Online representation of the GSA Open Source Policy'
+license: null
+openSourceProject: 1
+governmentWideReuseProject: 1
+tags:
+    - open-source
+contact:
+    email: cto@gsa.gov
