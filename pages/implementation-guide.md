@@ -34,9 +34,11 @@ If you have determined that your source code repository should be included in th
 
 This specifically refers to projects that are under the [GSA organization on GitHub](https://github.com/GSA/).
 
-##### Option 1 (preferred)
+**If your code is on GitHub, you do not have to take any further action.** We automatically pull metadata from GitHub projects for the inventory. If you want to provide custom metadata for your project, see below.
 
-Add a YAML or JSON metadata file to the root folder of your repository. This file should be named `.codeinventory.yml` or `.codeinventory.json`, and it should contain metadata about your project. [We have a tool to help you generate a YAML or JSON file](https://gsa.github.io/codeinventory-metadata-generator/). Once you add this metadata file to your repository, we can automatically scan it to include your project in the GSA source code inventory. Leave the file in your repository and keep it updated. We will regularly pull the metadata from the file to refresh the GSA inventory.
+##### Custom Metadata
+
+If you want to customize your project metadata, add a YAML or JSON metadata file to the root folder of your repository. This file should be named `.codeinventory.yml` or `.codeinventory.json`. It should contain metadata about your project. [We have a tool to help you generate a YAML or JSON file](https://gsa.github.io/codeinventory-metadata-generator/). Once you add this metadata file to your repository, we can automatically scan it to include your project in the GSA source code inventory. Leave the file in your repository and keep it updated. We will regularly pull the metadata from the file to refresh the GSA inventory. If you no longer want custom metadata and want us to automatically build metadata for you, just remove the file from your repository.
 
 Please see the [GSA CTO Website repository](https://github.com/GSA/cto-website/blob/dev/.codeinventory.yml) for an example of how to use a `.codeinventory.yml` file.
 
@@ -75,10 +77,6 @@ contact:
 ```
 
 [Code.gov provides specifics on field values](https://code.gov/#/policy-guide/docs/compliance/inventory-code).
-
-##### Option 2
-
-Manually submit your source code metadata via an [online form](https://goo.gl/forms/UgYwvEks2jsB59Kh2) (accessible only by GSA.gov users). You should only use this method if there is a specific reason you cannot use the automated approach in Option 1.
 
 #### If your source code is *not* on GitHub
 
