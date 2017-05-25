@@ -1,4 +1,5 @@
-# OpenSourcePolicy
+# GSA Open Source Policy Implementation Guidance
+(Alpha - further exploration to inform GSA IT teams how to publish code)
 
 ## Background
 This repo was the initial site for GSA's development of it's open source code policy and implementation guidance.  That content can now be found at (open.gsa.gov/code)[https://open.gsa.gov/code/].
