@@ -1,9 +1,12 @@
-name: 'GSA Open Source Policy'
-description: 'Online representation of the GSA Open Source Policy'
+name: 'Open Source Policy Implementation Guidance - Alpha'
+description: 'Placeholder for GSA IT workgroup to develop open source code release guidance'
 license: null
 openSourceProject: 1
 governmentWideReuseProject: 1
 tags:
     - open-source
+    - opensource
+    - cto
+    - gsa-digital-service
 contact:
     email: cto@gsa.gov

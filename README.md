@@ -1,4 +1,4 @@
-# GSA Open Source Policy Implementation Guidance
+# Open Source Policy Implementation Guidance
 (Alpha - further exploration to inform GSA IT teams how to publish code)
 
 ---
