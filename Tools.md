@@ -7,8 +7,11 @@ Consider:
 - application vs. code scans
 - static code scans
 - dynamic code scans
-- open source tools
+- open source tools, cloud tools
+- 18F tools
+- custom scripts by GSA CTO, others
 - other tools at GSA approved for use or in process
+- DHS SWAMP
 
 ---
 
