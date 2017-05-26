@@ -1,4 +1,4 @@
-# Open Source Policy Implementation Guidance
+# Open Source Implementation Guidance
 ([Discovery](https://18f.gsa.gov/dashboard/stages/) phase - further exploration to inform GSA IT teams how to publish code)
 
 ---
