@@ -1,5 +1,5 @@
 # Open Source Policy Implementation Guidance
-(Discovery phase - further exploration to inform GSA IT teams how to publish code)
+([Discovery](https://18f.gsa.gov/dashboard/stages/) phase - further exploration to inform GSA IT teams how to publish code)
 
 ---
 
