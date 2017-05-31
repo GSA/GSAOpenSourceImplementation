@@ -1,39 +1,38 @@
 # Code Scan Tools
 
-Beginning the initial thoughts around tools for code scanning.
-
-Consider:
-
-- application vs. code scans
-- static code scans
-- dynamic code scans
-- open source tools, cloud tools
-- 18F tools
-- custom scripts by GSA CTO, others
-- other tools at GSA approved for use or in process
-- DHS SWAMP
+This provides a list of scanning tools currently being used at GSA.  It is recommended that teams look at the ServiceNow and GEAR databases for the most up-to-date approved SW.
 
 ---
 
 #### The following are approved tools at GSA to use for code scanning:
 
----
-
 #### Static code analyzers
 
 | Product      | What it does | How it is used | How to obtain | Additional notes |
 | ------------ | ------------ | -------------- | ------------- | ---------------- |
-| [Fortify](https://saas.hpe.com/en-us/software/sca) | Identifies source code vulnerabilities in the software development lifecycle. | IQ currently uses with Jenkins to support their DevOps process.  Needs to be integrated in development process to not get inundated with irregular code scan output, teams will want to conduct regular and frequent scans. | Obtain through IS team.  Consider acquisition timeline, onboard effort, and deployment. | Responsibility of the project team using the product to manage execution of the product, code scans, and fixes.  IS can support assist but will not maintain on regular basis. |
-| [Checkmarx](https://www.checkmarx.com/) | Provides static code analysis and implemented to interact with full software development lifecycle. | Primarily used to test Apex code in Salesforce. | Salesforce team as 10 licenses.  New users would need to consider their own purchase through acquisition. | Responsibility of the project team. Consider acquisition and implementation time. |
+| [Fortify](https://saas.hpe.com/en-us/software/sca) | Identifies source code vulnerabilities in SDLC | IQ currently uses with Jenkins to support their DevOps process; product should be run regularly | Obtain through IS team.  Consider acquisition timeline, onboard effort, and deployment | Responsibility of the project team to manage execution of the product, code scans, and fixes |
+| [Checkmarx](https://www.checkmarx.com/) | Provides static code analysis in SDLC | IC uses to test Apex code in Salesforce | New users have to conduct their own purchase | Responsibility of the project team to manage execution of the product, code scans, and fixes |
+
+---
 
 #### Other analysis tools (TBD)
 
+| Product      | What it does | How it is used | How to obtain | Additional notes |
+| ------------ | ------------ | -------------- | ------------- | ---------------- |
+|
+
+---
 
 #### Custom scripts
 
-
+| Script       | What it does | How it is used | How to obtain | Additional notes |
+| ------------ | ------------ | -------------- | ------------- | ---------------- |
 
 
 ---
 
-#### The following tools are being used at GSA and are working through approval process:
+#### The following tools are being used at GSA and are working through the approval process:
+
+| Product      | What it does | How it is used | How to obtain | Additional notes |
+| ------------ | ------------ | -------------- | ------------- | ---------------- |
+|
