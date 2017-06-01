@@ -6,6 +6,8 @@ Here is a list of scanning tools currently being used at GSA.  It is recommended
 
 #### Static code analyzers
 
+Static code analysis = "static analysis refers to any process for assessing code without executing it (Chest & West, [Secure Programming with Static Analysis](https://www.amazon.com/Secure-Programming-Static-Analysis-Brian/dp/0321424778/ref=sr_1_1?ie=UTF8&qid=1496348632&sr=8-1&keywords=secure+programming+with+static+analysis))."
+
 | Product      | What it does | How it is used | How to obtain | Additional notes |
 | ------------ | ------------ | -------------- | ------------- | ---------------- |
 | [Fortify](https://saas.hpe.com/en-us/software/sca) | Identifies source code vulnerabilities through development lifecycle | IQ currently uses with Jenkins to support their DevOps process; product should be run regularly | Obtain through IS team.  Consider acquisition timeline, onboard effort, and deployment | Responsibility of the project team to manage execution of the product, code scans, and fixes |
@@ -14,6 +16,8 @@ Here is a list of scanning tools currently being used at GSA.  It is recommended
 ---
 
 #### Dynamic code analyzers
+
+Dynamic code analysis = ""
 
 | Product      | What it does | How it is used | How to obtain | Additional notes |
 | ------------ | ------------ | -------------- | ------------- | ---------------- |
