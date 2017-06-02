@@ -6,7 +6,7 @@ Here is a list of scanning tools currently being used at GSA.  It is recommended
 
 #### Static code analyzers
 
-Static code analysis = "static analysis refers to any process for assessing code without executing it (Chest & West, [Secure Programming with Static Analysis](https://www.amazon.com/Secure-Programming-Static-Analysis-Brian/dp/0321424778/ref=sr_1_1?ie=UTF8&qid=1496348632&sr=8-1&keywords=secure+programming+with+static+analysis))."
+Static code analysis = "Static analysis refers to any process for assessing code without executing it. A static analysis tool can explore a large number of “what if” scenarios without having to go through all the computations necessary to execute the code for all the scenarios. (Chest & West, [Secure Programming with Static Analysis](https://www.amazon.com/Secure-Programming-Static-Analysis-Brian/dp/0321424778/ref=sr_1_1?ie=UTF8&qid=1496348632&sr=8-1&keywords=secure+programming+with+static+analysis))."
 
 | Product      | What it does | How it is used | How to obtain | Additional notes |
 | ------------ | ------------ | -------------- | ------------- | ---------------- |
@@ -17,7 +17,7 @@ Static code analysis = "static analysis refers to any process for assessing code
 
 #### Dynamic code analyzers
 
-Dynamic code analysis = ""
+Dynamic code analysis = "Analysis of computer software that is performed by executing programs on a real or virtual processor. For dynamic program analysis to be effective, the target program must be executed with sufficient test inputs to produce interesting behavior ([Wikipedia](https://en.wikipedia.org/wiki/Dynamic_program_analysis))."
 
 | Product      | What it does | How it is used | How to obtain | Additional notes |
 | ------------ | ------------ | -------------- | ------------- | ---------------- |
