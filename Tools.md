@@ -19,7 +19,7 @@ Static code analysis = "Static analysis refers to any process for assessing code
 
 #### Dynamic code analyzers
 
-Dynamic code analysis = "Analysis of computer software that is performed by executing programs on a real or virtual processor. For dynamic program analysis to be effective, the target program must be executed with sufficient test inputs to produce interesting behavior ([Wikipedia](https://en.wikipedia.org/wiki/Dynamic_program_analysis))."
+Dynamic code analysis = "Analysis of computer software that is performed by executing programs on a real or virtual processor. For dynamic program analysis to be effective, the target program must be executed with sufficient test inputs to produce interesting behavior ([Myers](https://www.amazon.com/Art-Software-Testing-Glenford-Myers/dp/B002W6HZ1W))."
 
 ---
 
