@@ -5,7 +5,7 @@
 
 #### Working directory:  
 [Process](https://github.com/GSA/GSAOpenSourcePolicy/blob/master/Process.md)  
-[Tools](https://github.com/GSA/GSAOpenSourcePolicy/blob/master/Tools.md)
+[Tools](https://github.com/GSA/GSAOpenSourcePolicy/blob/master/Tools.md)   
 [Code Review Checklist](https://github.com/GSA/GSAOpenSourcePolicy/blob/master/Code%20Review%20Checklist.md)
 
 ---
